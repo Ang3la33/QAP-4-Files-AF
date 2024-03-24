@@ -8,8 +8,8 @@
 # QAP-4-Python-Project 1
 #The One Stop Insurance Company needs a program to enter and calculate new insurance policy 
 information for its customers. Allow the program to repeat to allow the user to enter as many customers 
-as they want.
-#This program takes user input for an insurance company, makes calculations based on input and returns a formatted reciept showing user the customer's information on their insurance policy including monthly payment and date of first payment owing. 
+as they want./n
+#This program takes user input for an insurance company, makes calculations based on input and returns a formatted reciept showing user the customer's information on their insurance policy including monthly payment and date of first payment owing./n
 #Program also saves the policy data and claims to a file.
 
 
